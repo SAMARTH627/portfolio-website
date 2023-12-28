@@ -722,3 +722,6 @@ p {
 	color: aliceblue;
 	font-size: large;	
 }
+.project-info h1 a{
+	color: white;
+}
